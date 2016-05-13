@@ -1,2 +1,1 @@
-# gitbook_cocos_protobuf
-gitbook_cocos_protobuf
+[GitBook Cocos Protocol Buffer](https://www.gitbook.com/book/supersuraccoon/gitbook_cocos_protobuf) source code.
